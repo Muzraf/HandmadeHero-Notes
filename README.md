@@ -1,2 +1,2 @@
 # HandmadeHero-Notes
-This repo cotains my day to day code archive from Handmade Hero. 
+This repo cotains my day to day archive of Handmade Hero by casey muratori. 
